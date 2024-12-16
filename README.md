@@ -4,4 +4,4 @@
 For example: __
 
 ## Even more
-Innocent attempt to add content that triggers merge conflict
+cause merge conflict
