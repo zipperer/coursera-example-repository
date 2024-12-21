@@ -7,3 +7,5 @@ For example: __
 cause merge conflict
 
 ## Third section
+
+## A new section
