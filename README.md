@@ -9,3 +9,4 @@ cause merge conflict
 ## Third section
 
 ## A new section
+another merge conflict
