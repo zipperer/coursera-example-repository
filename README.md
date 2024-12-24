@@ -11,3 +11,4 @@ cause merge conflict
 ## A new section
 another merge conflict
 what have we here
+fewer issues
